@@ -1,9 +1,8 @@
 ### Olá! Eu sou a Letícia Mendes 👋
 
-<div align="center">
+<div>
   <a href="https://github.com/Leticia-Mendes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Mendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Mendes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Mendes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
