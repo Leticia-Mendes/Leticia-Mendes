@@ -4,7 +4,7 @@
 
  🌱 I’m currently learning **AWS Cloud, Terraform, Kubernetes, and PowerShell**
 
-- 💬 Ask me about **continuous integrations pipelines on GitHub Actions**
+- 💬 Ask me about **continuous integrations pipelines**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
